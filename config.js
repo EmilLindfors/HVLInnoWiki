@@ -23,8 +23,8 @@ const config = {
     description: "Kompendium med innovasjonsteori",
     ogImage: null,
     docsLocation:
-      "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
-    favicon: "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+      "https://github.com/EmilLindfors/HVLInnoWiki/tree/master/content",
+    favicon: "https://www.hvl.no/Static/internett/images/logo-no.svg"
   }
 };
 
