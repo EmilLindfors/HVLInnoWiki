@@ -10,121 +10,92 @@ Omgrep som «innovasjon» og «innovasjonsaktivitet» er i vinden som aldri før
 
 # List of key terms from the innovation literature
 
-## Innovasjon:
+## Innovation
 
-Det er vanskeleg å peike på ein uttømmande, einheitleg definisjon av innovasjon. Omgrepet gir ulike assosiasjonar til ulike aktørar, og det er vanskeleg å fange mangfaldet og breidda i omgrepet i ein tydeleg definisjon. Det fins så klart ei lang rekke forsøk, og den offisielle definisjonen er at innovasjon «er ei ny vare, ei ny teneste, ein ny produksjonsprosess, anvendelse eller organisasjonsform som er lansert i marknaden eller teke i bruk i produksjonen for å skape økonomiske verdiar.» Ei anna vanleg oppfatning (som kan daterast tilbake til Schumpeter) er at innovasjon er å setje saman eksisterande kunnskap og ressursar på nye måtar. Ein innovasjon kan også omtalast som kommersialiseringa (marknadsintroduksjonen) av ei oppfinning.
+### Product Innovation
 
-## Produktinnovasjon
 
-Ny eller vesentleg forbetra vare eller teneste.
+### process Innovation
 
-## Prosessinnovasjon
 
-Ny eller vesentleg forbetra produksjonsteknologi
+## Organisatory Innovation
 
-## Organisatorisk innovasjon
 
-Ny eller vesentleg forbetra organisering av selskapet.
+### Market Innovation
 
-## Marknadsinnovasjon
 
-Introduksjonen av ny marknadsføringsmåte/strategi.
+### Incremental Innovation
 
-## Inkrementell innovasjon:
 
-Småstegsinnovasjon.
+### Radical Innovation
 
-## Radikal innovasjon
 
-Introduksjonen av noko heilt nytt (t.d. ny type maskineri).
+### Responsible Innovation
 
-## Teknologisk skift
 
-Teknologisk revolusjon (t.d. dampmaskina, elektrisitet, Internett)
+### Open Innovation
 
-## Imitasjon
 
-Kopiering eller etterlikning av ein innovasjon. Har også i seg eit element av innovativ aktivitet, då innovasjonen ein imiterer ofte kan verte forbetra (inkrementell innovasjon).
+## Technolocial Paradigm Shift
 
-## Innovasjonssystem
 
-Litteraturen fokuserer på at ein kan leggje til rette for innovasjon gjennom å sjå på fenomenet som eit system. Ved å kople ulike aktørar saman fører dette til at informasjon, kunnskap, ressursar etc. flyt, og interaksjon mellom dei ulike er sett på som positivt. Det er vanskeleg å planlegge slike prosessar, men det fins ei tru på at ein kan tilrettelegge for dei. Outputen er svært vanskeleg å definere på førehand. Særleg teoriar om regionale innovasjonssystem har vore sentrale dei seinare åra, både blant politikarar, verkemiddelapparatet og i akademia.
+## Imitation
 
-## Entreprenør:
 
-Aktøren (t.d. enkeltindivid eller ein organisasjon) som introduserer/iverkset ein innovasjon vart kalla entreprenør av Schumpeter, medan omgrepet entreprenørskap omfattar det å utvikle aktiviteten frå ideen oppstår til produktet er introdusert i marknaden.
+## Innovation Systems
+
+
+## Entrepreneur
+
 
 ## Triple helix
 
-Gjort «allment kjent» av Etzkowitz and Leydesdorff (2000), peikar denne teorien på viktigheita av samhandling mellom næringslivet, FoU- institusjonar og myndigheiter som viktig for innovasjonsaktivitet. Denne tenkinga er også sentral i innovasjonssystem-tenkinga, og inngår slik som eit ledd i dette.
 
-## Kunnskapsbase:
+## Knowledge
 
-Idealtype-omgrep som refererer til den dominerande kunnskapsbehaldninga i ei bedrift, ein organisasjon eller ein region. Det er identifisert tre hovudtypar: syntetisk, analytisk og symbolsk kunnskap. Desse er også med å påverke korleis bedrifter og regionar innoverer (innovasjonsmåte).
 
-## Analytisk kunnskap:
+### Knowledge Base
 
-Grunna på vitskaplege metodar. Fører til ein lineær form for innovasjon, der ein går frå idé til produktutvikling til marknad. Stort innslag av FoU både i arbeidsmåte og arbeidsstokk. Eit typisk døme er bioteknologiindustrien. Know-why og kodifisert kunnskap.
 
-## Syntetisk kunnskap:
+### Analytical Knowledge
 
-Basert på erfaringsbasert kunnskap (know-how) rundt det å løyse problem og utvikle produkt/tenester. Ingeniørbasert kunnskapsbase, som innoverer gjennom tette koplingar til kundar og leverandørar. Taus kunnskap er framtredande. Store delar av norsk næringsliv er karakterisert av denne forma for kunnskap, m.a. petroleumsindustrien.
 
-## Symbolsk kunnskap:
+### Syntetic Knowledge
 
-Know-who kunnskap om kven som sit på spesialisert kunnskap innan eit felt, og kreative prosessar er viktige for å skape meining og estetiske kvalitetar. Er typisk å finne i kulturnæringane, og mykje av innovasjonsaktiviteten går føre seg i tidsavgrensa prosjekt. Filmproduksjon er eit døme.
 
-## Innovasjonsmåte
+### Symbolic Knowledge
 
-STI (Science, Technology, Innovation) er ein lineær innovasjonsprosess basert på analytisk kunnskap, der produkt/tenesteutviklinga er basert på vitskaplege metodar. DUI (Doing, Using, Interacting) peikar på at ein innoverer i samspel med kundar/leverandørar, medan PCI (Project, Communication, Infrastructure) baserer seg på symbolsk kunnskap og tidsavgrensa prosjekt. Kreativitet er eit sentralt element. CCI (Complex, Combined Innovation) vil seie å kople ulike kunnskapsbasar (t.d. syntetisk og analytisk kunnskap. Innovasjonsmåte heng også saman med innovasjonsdrivar (sjå under).
 
-## Lineær innovasjonsprosess:
+### Innovation Modes
 
-Idéproduktmarknad
 
-## Interaktiv innovasjonsprosess:
+## Linear Innovation Process
 
-Interaksjon med kundar og leverandørar avgjerande.
 
-## Innovasjonsdrivar:
+## Interactive Innovation Process
 
-Hovudsakleg to retningar. Market pull legg vekt på etterspurnad og at innovasjonsdrivaren er kundar og marknaden, medan technology push vektlegg at teknologien som vert utvikla seinare vert introdusert i marknaden. Med andre ord går skiljet mellom marknadsdriven innovasjon og teknologidriven innovasjon. STI (analytisk kunnskap) og lineære innovasjonsprosessar samsvarar ofte med technology push, medan DUI (syntetisk kunnskap) og interaksjon mellom kundar/leverandørar ofte er samanfallande med market pull.
 
-## Relatert variasjon:
+## innovation Drivers
 
-Forholdet mellom spesialisering (likheit) og diversifisering (ulikheit) er komplekst, og går igjen i litteraturen. Relatert variasjon er imidlertid ein slags «mellomposisjon» som peikar på viktigheita av å ha nokre fellestrekk mellom aktørar, kunnskapsbasar, innovasjonsmåtar etc. som gjer at ein får nye impulsar og idear, samtidig som partane forstår kvarandre.
 
-## Interaktiv læring
+## Related Variance
 
-Aktørar i eit innovasjonssystem lærer gjennom samhandling med kvarandre. Det er i slike læringsprosessar innovasjonar oppstår, og ofte vert utfallet eit anna enn ein hadde trudd; innovasjonsprosessen er sjølve læringsprosessen og vice versa.
-Open innovation: Bedriftsperspektiv på open innovasjon. Gjennom å knyte til seg kundar, leverandørar og andre interesserte i utviklingsprosessen, vert produktet/tenesta betre, i følgje teorien. Basert på at bedrifter vanskeleg kan ha alt av FoU-ressursar innomhus, og at impulsar, idear og innspel frå andre vil vere viktig i prosessen.
 
-## Diffusjon:
+## Interactive Learning
 
-Spreiinga av innovasjonar. Eit hovudskilje går mellom first movers og followers, der sistnemnde ofte imiterer den opprinnelege innovasjonen. Dette kan også ha i seg ein grad av innovasjon, då ein nødvendigvis må tilpasse tenesta/produktet til marknader/geografiske område/organisatoriske kontekstar etc.
-Kunnskapsøkonomien: Økonomisk aktivitet vert i større og større grad driven av tenestesektoren heller enn av vareproduksjon, og inputfaktorane er i aukande grad kunnskap. Formalisert og spesialisert kunnskap er framveksande.
 
-## Næringsklynge:
+## Difusion
 
-Geografisk konsentrasjon av relaterte aktørar innan same eller tilgrensande næringar. Ei næringsklynge består også av støttande industri og tilgang til input-faktorar (så som råvarer, arbeidskraft osb.). I mange land ein populær måte å organisere næringsutviklingsarbeidet på.
 
-## Teknologioverføring:
+## industry Cluster
 
-Kommersialisering av kunnskap/forsking frå FoU-institusjonar.
 
-## Absorpsjonskapasitet:
+## Technology Transfer
 
-Evna ein organisasjon/bedrift/region har til å ta til seg – og omsetje – ny kunnskap.
 
-## Innovasjonsstrategi:
+## Absorbtion Capacity
 
-Korleis en bedrift (eller klyngeorganisasjon for den saks skyld) vel å ‘styre’ innovasjon. Dette involverar mange faktorar, men grovt sett kan vi skilje mellom lukka innovasjon (bedriften satsar på eigen FoU) og open innovasjon (bedriftene samarbeidar med andre bedriftar om FoU, brukar FoU frå universitetar o.l., eller kjøpar lisensar som andre har utvikla).
-Innovasjonsleiing: Evna ein bedrift har til å styre innovasjonsprosessar, som oftast i eigen bedrift. Omhandlar både leiarars evne til å stimulere ansatte til å bidra med innovasjon, samt korleis korleis ein skal kontrollere design- og produksjonsprosessar.
 
-## Ansvarleg innovasjon:
+## innovation strategy
 
-Refererar til tilstedeverlesen av etiske og berekraftige holdningar som bør liggje til grunn for innovasjonsprosessar i bedriftar, næringar, klyngar osv. Omhandlar også teoriar som blant anna ‘ansvarleg forsking og innovasjon’ (fokus på ulike samfunnsgruppars medbestemmelse i innovasjonsprosessar) og ‘sosialt entreprenørskap’ (samfunnsnytte, heller enn profittmaksimering, er gjenstand for fokus i innovasjonsprosessar og entreprenørskapskultur).
 
-## Offentleg innovasjon:
-
-Innovasjon som finn sted i offentleg sektor. Skil seg mellom anna frå ‘konvensjonell innovasjon’ i privat sektor ved at ein ofte ikkje tek ilke mykje risiko i forbindelse med innovasjonsprosjekt her. Dette kan føre til at ein i offentleg sektor vel å forfølge andre innovasjonsprosjekt enn ein ville gjort i ‘normale’ situasjonar.
